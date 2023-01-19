@@ -1,4 +1,4 @@
-# DBMS 
+# DBMS - Hospital Management System
 The project - "Hospital Management System" is aimed to develop to maintain the day-to-day activities of admission/discharge of patients, list of doctors, reports generation, etc. It is designed to achieve the following objectives :
 
 1). To Computerise all details regarding patient details & hospital details.
